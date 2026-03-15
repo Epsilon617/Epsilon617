@@ -14,7 +14,7 @@ jobs:
 
       - uses: Platane/snk@master
         with:
-          github_user_name: Epsilon617
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
