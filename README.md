@@ -1,6 +1,10 @@
 ### Hi there 👋, I'm Yiqi Liu
 
-![](https://raw.githubusercontent.com/Epsilon617/Epsilon617/output/snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Epsilon617/Epsilon617/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Epsilon617/Epsilon617/output/snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Epsilon617/Epsilon617/output/snake.svg">
+</picture>
 
 I'm currently a PhD student at the [University of Manchester](https://www.manchester.ac.uk/), focusing on Natural Language Processing, Large Language Models, and LLM-as-a-Judge. I am deeply involved in large-scale LLM evaluation and developing robust LLM Judge Methods.
 
