@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Yiqi Liu
 
 I'm currently a PhD student at the [University of Manchester](https://www.manchester.ac.uk/), where my research sits at the intersection of **Large Language Models** and **LLM Agents**, with a particular focus on **LLM-as-a-Judge**.
-Beyond my core work, I'm increasingly drawn to questions around **LLM Safety** and the application of LLMs and agents in **medical domains** .
+Beyond my core work, I'm increasingly drawn to questions around **LLM Safety**, **LLM Mechanistic Interpretability** and the application of LLMs and agents in **medical domains** .
 
 Before joining Manchester in 2023, I was a PhD student in Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/). 
 I received my BEng from [Chongqing University](http://www.cqu.edu.cn/) in 2022.
